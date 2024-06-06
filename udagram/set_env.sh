@@ -1,5 +1,9 @@
 # This file is used for convenience of local development.
 # DO NOT STORE YOUR CREDENTIALS INTO GIT
+# export POSTGRES_USERNAME=magical_user
+# export POSTGRES_PASSWORD=password123
+# export POSTGRES_HOST=127.0.0.1
+# export POSTGRES_DB=storefront
 export POSTGRES_USERNAME=postgres
 export POSTGRES_PASSWORD=myPassword
 export POSTGRES_HOST=mydbinstance.csxbuclmtj3c.us-east-1.rds.amazonaws.com
